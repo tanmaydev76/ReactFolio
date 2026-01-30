@@ -1,0 +1,8 @@
+.Item {
+    color: black;
+    size: 20px;
+    background-color: blueviolet;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
