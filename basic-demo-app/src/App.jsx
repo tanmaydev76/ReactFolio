@@ -7,16 +7,22 @@ import ItemDate from './assets/ItemDate'
 
 function App() {
       const temp = [{
-          name:'nirma',
+          name:'Tide',
           day:'20', 
           month:'July',
           year:'2025'
       },
       {
-         name: "Rai",
-         day : "hu",
-         month : "uvfli",
-         year : "igrf"
+         name: "Nirma",
+         day : "31",
+         month : "jan",
+         year : "2026"
+      },
+      {
+        name: "Ariel",
+        day : 31,
+        month : "January",
+        year : "2026"
       }
     ];
       return <div className='AppHead'>
